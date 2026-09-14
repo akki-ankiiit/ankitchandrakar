@@ -1,5 +1,3 @@
-# ERA Residence — React
- Preserving the reference site's layouts, typography, imagery, responsive breakpoints, andA React r animation choreography.
 
 ## Run locally
 
