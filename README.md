@@ -1,6 +1,5 @@
 # ERA Residence — React
-
-A React recreation of [example.com](https://www.example.com/), preserving the reference site's layouts, typography, imagery, responsive breakpoints, and animation choreography.
+ Preserving the reference site's layouts, typography, imagery, responsive breakpoints, andA React r animation choreography.
 
 ## Run locally
 
